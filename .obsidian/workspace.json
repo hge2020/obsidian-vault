@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "535561bba8ec1804",
+    "type": "split",
+    "children": [
+      {
+        "id": "86cb2b24a052f4d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba80af0649ad65db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/논문읽기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f72fc0de233d4d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/GPT로 논문읽기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71d1a98a6d6e10e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0465df458243045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c4430c9687418dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50af325e16c3c6fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "246fa5b265e28877",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214
+  },
+  "right": {
+    "id": "f57762fad4d64f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c8b1f0b0caed7dc",
+        "type": "tabs",
+        "dimension": 39.32038834951456,
+        "children": [
+          {
+            "id": "a5d4ccc96f1e2061",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "inbox/GPT로 논문읽기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01c5f111a6f17f86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "inbox/GPT로 논문읽기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7430d92331444c71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a25f67c79631f08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "inbox/GPT로 논문읽기.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "aaf84a7212a92b45",
+        "type": "tabs",
+        "dimension": 60.679611650485434,
+        "children": [
+          {
+            "id": "e7a014429b93a3a6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "random-note:랜덤 노트 열기": false
+    }
+  },
+  "active": "f72fc0de233d4d82",
+  "lastOpenFiles": [
+    "Project/논문읽기.md",
+    "inbox/📙Neuromorphic electronics based on copying and pasting the brain.md",
+    "inbox/GPT로 논문읽기.md",
+    "Area/추천/유용한 도구 추천.md",
+    "inbox/GPTs are GPTs- An Early Look at the Labor Market Impact Potential of Large Language Models.md",
+    "inbox/📙Gate-Tunable Resonant Tunneling in Double Bilayer Graphene Heterostructures.md",
+    "inbox/OAT.md",
+    "Project/연구실 찾기, 입학.md",
+    "Area/독후기록.md",
+    "inbox/당신도 느리게 나이들 수 있습니다.md",
+    "inbox/내재역량을 개선하기 위한 4M.md",
+    "inbox/알고리즘이 지배한다는 착각.md",
+    "inbox/미츠쿠의 한계는 그 챗봇을 완벽하게 다듬는 데 어마어마한 시간이 필요하다는 점에 있었다..md",
+    "inbox/결국 단어들을 어떻게 배치해야 할지에 관한 보편적 정답은 없다. 단어배치에 관한 질문의 대답은 알고리즘을 어디에 사용할것이냐에 따라 달라진다..md",
+    "inbox/가짜뉴스의 확산이 선거의 판도를 바꾼다거나 봇들의 증가가 사람들의 정치적 토론에 부정적 영향을 미친다는 구체적 증거는 없다..md",
+    "inbox/그 세계들에서 온라인상의 인기는, 자신의 선택을 그리 열심히 숙고하지 않고 타인들의 질 낮은 선택을 강화하는 수많은 사람들에 의해 결정된다..md",
+    "inbox/트럼프가 이길 확률 28.2%는 결고 작은 값이 아니다..md",
+    "inbox/내가 하는 일의 절반은 컴퓨터가 내놓는 대답들 가운데 어떤 것이 말이 되는지 판단하는 일이에요..md",
+    "Project/Pillars.md",
+    "inbox/미국 사법 시스템이 널리 사용하는 알고리즘 중 하나가 아프리카계 미국인에게 적대적인 편향을 지녔음을 보여주었다.md",
+    "inbox/사람을 매니지먼트한다는 것은 그 사람의 장점을 살리는 일이다.md",
+    "inbox/사회재적응평가척도.md",
+    "inbox/비교하는 마음은 점차 사물을 사용가치가 아닌 교환가치로 바라보게 한다.md",
+    "inbox/격자를 구성하는 공부체계를 만들지 않으면 본인이 직접 배우고 경험한 것만 아는 화석형 전문가가 된다.md",
+    "inbox/특히 수면제와 술은 렘수면을 방해한다..md",
+    "inbox/특히 수면제와 술은 렘수면을 방해한다. (1).md",
+    "사진파일/Pasted image 20240103170330.png",
+    "사진파일/Pasted image 20240103164455.png",
+    "사진파일/Pasted image 20240102175024.png",
+    "사진파일/Pasted image 20240102174940.png",
+    "사진파일/Pasted image 20231204140908.png",
+    "사진파일/Pasted image 20231204134328.png",
+    "사진파일/Pasted image 20231123140453.png",
+    "사진파일/Pasted image 20231116142754.png",
+    "사진파일/Pasted image 20231115213651.png",
+    "사진파일/Pasted image 20231115210026.png",
+    "draw",
+    "Project/무제 폴더",
+    "Area/독후기록",
+    "inbox",
+    "새 폴더",
+    "제텔카스텐 연습/Archive",
+    "제텔카스텐 연습",
+    "Area/추천/유용한 사이트",
+    "템플릿 양식",
+    "사진파일"
+  ]
+}

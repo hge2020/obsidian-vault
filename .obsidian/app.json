@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "사진파일",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "userIgnoreFilters": [
+    "템플릿 양식/"
+  ],
+  "alwaysUpdateLinks": true
+}
