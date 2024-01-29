@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/GPT로 논문읽기.md",
+                "file": "Area/추천/책 추천/철학 입문서 추천.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/GPT로 논문읽기.md",
+                "file": "Area/추천/책 추천/철학 입문서 추천.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/GPT로 논문읽기.md",
+                "file": "Area/추천/책 추천/철학 입문서 추천.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/GPT로 논문읽기.md"
+                "file": "Area/추천/책 추천/철학 입문서 추천.md"
               }
             }
           }
@@ -181,10 +181,10 @@
   },
   "active": "f72fc0de233d4d82",
   "lastOpenFiles": [
+    "Area/추천/유용한 도구 추천.md",
+    "inbox/GPT로 논문읽기.md",
     "Project/논문읽기.md",
     "inbox/📙Neuromorphic electronics based on copying and pasting the brain.md",
-    "inbox/GPT로 논문읽기.md",
-    "Area/추천/유용한 도구 추천.md",
     "inbox/GPTs are GPTs- An Early Look at the Labor Market Impact Potential of Large Language Models.md",
     "inbox/📙Gate-Tunable Resonant Tunneling in Double Bilayer Graphene Heterostructures.md",
     "inbox/OAT.md",
