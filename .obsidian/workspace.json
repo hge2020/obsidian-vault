@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/논문읽기.md",
+                "file": "Project/연구실 찾기, 입학.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/추천/유용한 도구 추천.md",
+                "file": "Project/연구실 찾기, 입학.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/추천/유용한 도구 추천.md",
+                "file": "Project/연구실 찾기, 입학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/추천/유용한 도구 추천.md",
+                "file": "Project/연구실 찾기, 입학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/추천/유용한 도구 추천.md"
+                "file": "Project/연구실 찾기, 입학.md"
               }
             }
           }
@@ -179,19 +178,21 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "f72fc0de233d4d82",
+  "active": "ba80af0649ad65db",
   "lastOpenFiles": [
-    "inbox/Typeface animator.md",
+    "Project/논문읽기.md",
+    "Project/연구실 찾기, 입학.md",
+    "사진파일/Pasted image 20240315152351.png",
+    "inbox/참을 수 없이 불안할 때, 에리히 프롬.md",
+    "Area/독후기록.md",
     "Area/추천/유용한 도구 추천.md",
+    "inbox/Typeface animator.md",
     "Area/추천/책 추천/철학 입문서 추천.md",
     "inbox/GPT로 논문읽기.md",
-    "Project/논문읽기.md",
     "inbox/📙Neuromorphic electronics based on copying and pasting the brain.md",
     "inbox/GPTs are GPTs- An Early Look at the Labor Market Impact Potential of Large Language Models.md",
     "inbox/📙Gate-Tunable Resonant Tunneling in Double Bilayer Graphene Heterostructures.md",
     "inbox/OAT.md",
-    "Project/연구실 찾기, 입학.md",
-    "Area/독후기록.md",
     "inbox/당신도 느리게 나이들 수 있습니다.md",
     "inbox/내재역량을 개선하기 위한 4M.md",
     "inbox/알고리즘이 지배한다는 착각.md",
@@ -205,8 +206,6 @@
     "inbox/미국 사법 시스템이 널리 사용하는 알고리즘 중 하나가 아프리카계 미국인에게 적대적인 편향을 지녔음을 보여주었다.md",
     "inbox/사람을 매니지먼트한다는 것은 그 사람의 장점을 살리는 일이다.md",
     "inbox/사회재적응평가척도.md",
-    "inbox/비교하는 마음은 점차 사물을 사용가치가 아닌 교환가치로 바라보게 한다.md",
-    "inbox/격자를 구성하는 공부체계를 만들지 않으면 본인이 직접 배우고 경험한 것만 아는 화석형 전문가가 된다.md",
     "사진파일/Pasted image 20240103170330.png",
     "사진파일/Pasted image 20240103164455.png",
     "사진파일/Pasted image 20240102175024.png",
@@ -216,7 +215,6 @@
     "사진파일/Pasted image 20231123140453.png",
     "사진파일/Pasted image 20231116142754.png",
     "사진파일/Pasted image 20231115213651.png",
-    "사진파일/Pasted image 20231115210026.png",
     "draw",
     "Project/무제 폴더",
     "Area/독후기록",
