@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Neural Network Training With Asymmetric Crosspoint Elements.md",
+                "file": "Project/연구실 찾기, 입학.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "실ㅔ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Neural Network Training With Asymmetric Crosspoint Elements.md",
+                "file": "Project/연구실 찾기, 입학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/Neural Network Training With Asymmetric Crosspoint Elements.md",
+                "file": "Project/연구실 찾기, 입학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Neural Network Training With Asymmetric Crosspoint Elements.md"
+                "file": "Project/연구실 찾기, 입학.md"
               }
             }
           }
@@ -176,16 +175,21 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "50af325e16c3c6fa",
+  "active": "ba80af0649ad65db",
   "lastOpenFiles": [
+    "Project/논문읽기.md",
+    "inbox/참을 수 없이 불안할 때, 에리히 프롬.md",
+    "inbox/사디즘적인 경향은 사회적으로는 훨씬 해가 없는 마조히즘적인 경향보다 덜의식되며 많은 경우 다른 사람들에게 선의를 베풀고 그들을 배려하는 미화되고 합리화된 형태로 나타난다.md",
+    "Area/독후기록.md",
+    "inbox/알고리즘이 지배한다는 착각.md",
+    "inbox/실제로 모든 와이드스크린 TV나 CCTV카메라를 체계적으로 검토하는 진짜 화이트햇 제휴 사이트가 그저 주스를 뿜어낼 뿐인 온갖 블랙 햇 사이트들 사이에서 금세 사라진다는 것을 의미한다.md",
+    "Project/Pillars.md",
     "Project/연구실 찾기, 입학.md",
+    "Project/연구실 찾기, 입학 (conflict 2024-03-26-11-28-22).md",
     "inbox/Neural Network Training With Asymmetric Crosspoint Elements.md",
     "inbox/GPT로 논문읽기.md",
-    "Project/논문읽기.md",
     "inbox/Acceleration of Deep Neural Network Training with Resistive Cross-Point Devices- Design Considerations.md",
     "사진파일/Pasted image 20240315152351.png",
-    "inbox/참을 수 없이 불안할 때, 에리히 프롬.md",
-    "Area/독후기록.md",
     "Area/추천/유용한 도구 추천.md",
     "inbox/Typeface animator.md",
     "Area/추천/책 추천/철학 입문서 추천.md",
@@ -195,16 +199,11 @@
     "inbox/OAT.md",
     "inbox/당신도 느리게 나이들 수 있습니다.md",
     "inbox/내재역량을 개선하기 위한 4M.md",
-    "inbox/알고리즘이 지배한다는 착각.md",
     "inbox/미츠쿠의 한계는 그 챗봇을 완벽하게 다듬는 데 어마어마한 시간이 필요하다는 점에 있었다..md",
     "inbox/결국 단어들을 어떻게 배치해야 할지에 관한 보편적 정답은 없다. 단어배치에 관한 질문의 대답은 알고리즘을 어디에 사용할것이냐에 따라 달라진다..md",
     "inbox/가짜뉴스의 확산이 선거의 판도를 바꾼다거나 봇들의 증가가 사람들의 정치적 토론에 부정적 영향을 미친다는 구체적 증거는 없다..md",
     "inbox/그 세계들에서 온라인상의 인기는, 자신의 선택을 그리 열심히 숙고하지 않고 타인들의 질 낮은 선택을 강화하는 수많은 사람들에 의해 결정된다..md",
     "inbox/트럼프가 이길 확률 28.2%는 결고 작은 값이 아니다..md",
-    "inbox/내가 하는 일의 절반은 컴퓨터가 내놓는 대답들 가운데 어떤 것이 말이 되는지 판단하는 일이에요..md",
-    "Project/Pillars.md",
-    "inbox/미국 사법 시스템이 널리 사용하는 알고리즘 중 하나가 아프리카계 미국인에게 적대적인 편향을 지녔음을 보여주었다.md",
-    "inbox/사람을 매니지먼트한다는 것은 그 사람의 장점을 살리는 일이다.md",
     "사진파일/Pasted image 20240103170330.png",
     "사진파일/Pasted image 20240103164455.png",
     "사진파일/Pasted image 20240102175024.png",
