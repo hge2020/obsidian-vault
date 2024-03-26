@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "실ㅔ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "ba80af0649ad65db",
+  "active": "50af325e16c3c6fa",
   "lastOpenFiles": [
     "Project/연구실 찾기, 입학.md",
     "inbox/Neural Network Training With Asymmetric Crosspoint Elements.md",
