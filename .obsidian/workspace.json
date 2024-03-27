@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Neural Network Training With Asymmetric Crosspoint Elements.md",
+                "file": "Project/연구실 찾기, 입학.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Neural Network Training With Asymmetric Crosspoint Elements.md",
+                "file": "Project/연구실 찾기, 입학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/Neural Network Training With Asymmetric Crosspoint Elements.md",
+                "file": "Project/연구실 찾기, 입학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Neural Network Training With Asymmetric Crosspoint Elements.md"
+                "file": "Project/연구실 찾기, 입학.md"
               }
             }
           }
@@ -177,8 +177,8 @@
   },
   "active": "ba80af0649ad65db",
   "lastOpenFiles": [
-    "Project/연구실 찾기, 입학.md",
     "inbox/Neural Network Training With Asymmetric Crosspoint Elements.md",
+    "Project/연구실 찾기, 입학.md",
     "inbox/Acceleration of Deep Neural Network Training with Resistive Cross-Point Devices- Design Considerations.md",
     "Project/논문읽기.md",
     "inbox/참을 수 없이 불안할 때, 에리히 프롬.md",
